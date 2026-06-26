@@ -32,6 +32,11 @@ Vad är Local Storage och vad används det till?, setItem(), getItem(), JSON.str
 
 #### 📃 Läsning
 
+* [(MDN) Working with JSON](https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Scripting/JSON)
+* [(MDN) JSON](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON)
+* [(MDN) JSON.stringify()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/stringify)
+* [(MDN) JSON.parse()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/JSON/parse)
+
 
 ---
 
