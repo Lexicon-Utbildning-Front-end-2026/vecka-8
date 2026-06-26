@@ -12,7 +12,7 @@ Formulär & Validering
 
 ### 🎯 Mål för dagen
 
-* <form>, submit, preventDefault(), skillnaden mellan click och submit, formulärets livscykel, enkel validering, återanvändbara funktioner.
+* form, submit, preventDefault(), skillnaden mellan click och submit, formulärets livscykel, enkel validering, återanvändbara funktioner.
 
 ### 📚 Material
 
