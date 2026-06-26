@@ -48,6 +48,7 @@ Export och import av moduler mm, dela upp koden.
 
 #### 📃 Läsning
 * [(MDN) JavaScript modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
+* [(GeeksForGeeks) WHat are the Modules in TypeScript](https://www.geeksforgeeks.org/typescript/what-are-the-modules-in-typescript/)
 * [(TypeScript Handbook) Modules](https://www.typescriptlang.org/docs/handbook/2/modules.html)
 
 ---
