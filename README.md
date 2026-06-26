@@ -19,6 +19,7 @@ Formulär & Validering
 #### 📃 Läsning
 * [(MDN) Working with forms](https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form)
 * [(MDN) Destructuring assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
+* [(GeeksForGeeks) How to work with Form Elements in TypeScript](https://www.geeksforgeeks.org/typescript/how-to-work-with-form-elements-in-typescript/)
 
 ---
 
