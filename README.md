@@ -4,7 +4,7 @@
 
 ## 🎯 Mål för veckan
 
-* Målet med veckan är att göra Task Tracker till en liten men välbyggd applikation.
+* Målet med veckan är att göra Task Tracker till en liten men välbyggd applikation, med möjlighet att spara tasks även vid omladdning av sidan.
 
 ## 📅 Måndag: Formulär & Validering
 
