@@ -19,7 +19,6 @@ Formulär & Validering
 #### 📃 Läsning
 * [(MDN) Working with forms](https://developer.mozilla.org/en-US/docs/Learn/Forms/Your_first_form)
 * [(MDN) Destructuring assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
-* [(TypeScript Handbook) Type Assertion (as HTMLInputElement)](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html#type-assertions)
 
 ---
 
