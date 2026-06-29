@@ -46,7 +46,7 @@ Vad är Local Storage och vad används det till?, setItem(), getItem(), JSON.str
 
 ## 📅 Onsdag: Moduler
 
-Export och import av moduler mm, dela upp koden.
+Export och import av moduler mm, import & export, dela upp koden.
 
 ### 📚 Material
 
@@ -59,8 +59,7 @@ Export och import av moduler mm, dela upp koden.
 
 ## 📅 Torsdag: Projektstruktur & Refaktorering
 
-import / export, projektstruktur, fetch.
-Bra filstruktur, små funktioner, namngivning mm.
+Bra projektstruktur, bra filstruktur, små funktioner, namngivning mm.
 
 ---
 
