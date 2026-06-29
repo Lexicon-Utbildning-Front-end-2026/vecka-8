@@ -8,6 +8,8 @@
 
 ## 📅 Måndag: Formulär & Validering
 
+Genomgång av **spread operator** och **destructuring**.
+
 Formulär & Validering
 
 ### 🎯 Mål för dagen
