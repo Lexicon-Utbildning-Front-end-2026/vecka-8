@@ -23,6 +23,8 @@ Formulär & Validering
 * [(MDN) Destructuring assignment](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment)
 * [(GeeksForGeeks) How to work with Form Elements in TypeScript](https://www.geeksforgeeks.org/typescript/how-to-work-with-form-elements-in-typescript/)
 * [(MDN) Event.preventDefault()](https://developer.mozilla.org/en-US/docs/Web/API/Event/preventDefault)
+* [(MDN) - Spread operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
+* [Parameter Destructuring](https://www.tutorialspoint.com/typescript/typescript_parameter_destructuring.htm)
 
 ---
 
