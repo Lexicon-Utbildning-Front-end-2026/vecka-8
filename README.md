@@ -52,7 +52,7 @@ Export och import av moduler mm, import & export, dela upp koden, få en bra pro
 
 #### 📃 Läsning
 * [(MDN) JavaScript modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
-* [(GeeksForGeeks) WHat are the Modules in TypeScript](https://www.geeksforgeeks.org/typescript/what-are-the-modules-in-typescript/)
+* [(GeeksForGeeks) What are the Modules in TypeScript](https://www.geeksforgeeks.org/typescript/what-are-the-modules-in-typescript/)
 * [(TypeScript Handbook) Modules](https://www.typescriptlang.org/docs/handbook/2/modules.html)
 
 ---
@@ -60,6 +60,20 @@ Export och import av moduler mm, import & export, dela upp koden, få en bra pro
 ## 📅 Torsdag: Synkron/asynkron utveckling, fetch och promise.
 
 Hämta data och jobba med fetch och asynkrona anrop.
+
+### 📚 Material
+
+#### 📅 E-learning
+
+* [(ProgrammingKnowledge) How to Use async/await in JavaScript](https://www.youtube.com/watch?v=00lneqewFIk)
+* [(Train To Code) Async Await in TypeScript](https://www.youtube.com/watch?v=_zwNvruI6ds)
+
+#### 📃 Läsning
+
+* [(MDN) Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
+* [(MDN) Using the Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
+* Lite överkurs: [(Dev.to) Typescript: Generic Data Fetch](https://dev.to/zeeshanali0704/typescript-generic-data-fetch-2a48)
+* [(MDN) async function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
 
 ---
 
