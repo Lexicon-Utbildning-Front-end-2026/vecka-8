@@ -79,6 +79,8 @@ Hämta data och jobba med fetch och asynkrona anrop.
 
 ## 📅 Fredag: Code Review
 
-Fokus på struktur, läsbarhet, funktioner, filindelning mm
+Kodsnack om Task Tracker-appen.
+
+[Kodsnack TypeScript vecka 3](https://github.com/Lexicon-Utbildning-Front-end-2026/typescript-vecka3-kodsnack)
 
 ---
