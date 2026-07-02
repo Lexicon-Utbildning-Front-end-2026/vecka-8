@@ -74,6 +74,7 @@ Hämta data och jobba med fetch och asynkrona anrop.
 * [(MDN) Using the Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch)
 * Lite överkurs: [(Dev.to) Typescript: Generic Data Fetch](https://dev.to/zeeshanali0704/typescript-generic-data-fetch-2a48)
 * [(MDN) async function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/async_function)
+* [Modern JavaScript fetch API: Guide to async/await & error handling](https://since1979.dev/modern-javascript-fetch-api-guide-to-async-await-error-handling/)
 
 ---
 
